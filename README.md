@@ -1,14 +1,14 @@
 <p align="center"><img src="https://c.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif" /></p>
 <h1 align="center"> Hey There, I'm SUPRIYA RAI !! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" style="max-width: 100%; user-select: auto;"> </h1>
 
-<h1 >
-<br>- 👩‍🎓 Third year IT student at Maharaja Surajmal Institute of Technology, Delhi. <br\>
-<br>- 🌱 I’m currently learning DSA and AI/ML. <br\>
-<br>- 👩‍💻 I love contributing to Open Source!❤️ <br\>
-<br>- 📫 How to reach me: supriyarai94094@gmail.com <br\>
-<br>- ⚡ Fun fact: I enjoy baking,travelling and working out in my leisure time! <br\>
-<br>- 😄 Go by she/her pronouns.<br>
-</h1>
+
+                   👩‍ Third year IT student at Maharaja Surajmal Institute of Technology, Delhi. <br\>
+                   🌱 I’m currently learning DSA and AI/ML. <br\>
+                   👩‍💻 I love contributing to Open Source!❤️ <br\>
+                   📫 How to reach me: supriyarai94094@gmail.com <br\>
+                   ⚡ Fun fact: I enjoy baking,travelling and working out in my leisure time! <br\>
+                   😄 Go by she/her pronouns.<br>
+
 ## Connect with me: <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="100px" style="max-width: 100%; user-select: auto;">
 <h1 align="center"> <a href = 'https://www.linkedin.com/in/supriya-rai/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>
 <a href="https://www.instagram.com/supriyarai01?r=nametag"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" alt="_abelisaurus_" height="40" width="40" style="max-width: 100%;"></a>
