@@ -28,7 +28,7 @@
 <img src = "https://i.redd.it/c6h7rok9c2v31.jpg" alt = "Pandas" width = "150" height = "45"/>
 
 ## ⚙️ GitHub Analytics
-![Supriya's GitHub stats](https://github-readme-stats.vercel.app/api?username=SupriyaRai75&show_icons=true&theme=radical)
+![SUPRIYA's GitHub stats](https://github-readme-stats.vercel.app/api?username=SupriyaRai75&show_icons=true&theme=radical)
 
 <!---[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ultimateutkarsh11&layout=compact&theme=radical)](https://github.com/Ultimateutkarsh11/github-readme-stats)---!>
 <!--
