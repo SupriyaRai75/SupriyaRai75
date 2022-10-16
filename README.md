@@ -2,12 +2,12 @@
 <h1 align="center"> Hey There, I'm SUPRIYA RAI !! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" style="max-width: 100%; user-select: auto;"> </h1>
 
 <h1 align="center">
-- 👩‍🎓 Third year IT student at Maharaja Surajmal Institute of Technology, Delhi.
-- 🌱 I’m currently learning DSA and AI/ML.
-- 👩‍💻 I love contributing to Open Source!❤️
-- 📫 How to reach me: supriyarai94094@gmail.com
-- ⚡ Fun fact: I enjoy baking,travelling and working out in my leisure time!
-- 😄 Go by she/her pronouns.
+- 👩‍🎓 Third year IT student at Maharaja Surajmal Institute of Technology, Delhi. <br\>
+- 🌱 I’m currently learning DSA and AI/ML. <br\>
+- 👩‍💻 I love contributing to Open Source!❤️ <br\>
+- 📫 How to reach me: supriyarai94094@gmail.com <br\>
+- ⚡ Fun fact: I enjoy baking,travelling and working out in my leisure time! <br\>
+- 😄 Go by she/her pronouns.<br>
 </h1>
 ## Connect with me: <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="100px" style="max-width: 100%; user-select: auto;">
 <h1 align="center"> <a href = 'https://www.linkedin.com/in/supriya-rai/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>
