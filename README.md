@@ -1,5 +1,5 @@
 <p align="center"><img src="https://c.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif" /></p>
-<h1 align="center"> Hey there, I'm SUPRIYA RAI <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" style="max-width: 100%; user-select: auto;"> </h1>
+<h1 align="center"> Hey There, I'm SUPRIYA RAI !! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" style="max-width: 100%; user-select: auto;"> </h1>
 
 - 👩‍🎓 Third year IT student at Maharaja Surajmal Institute of Technology, Delhi.
 - 🌱 I’m currently learning DSA and AI/ML.
