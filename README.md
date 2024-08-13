@@ -1,4 +1,4 @@
-<p align="center"><img src="https://c.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif" width="500px" height="400"/></p>
+<p align="center"><img src="[https://c.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)" width="500px" height="400"/></p>
 <h1 align="center"> Hey There, I'm SUPRIYA RAI !<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" style="max-width: 100%; user-select: auto;"> </h1>
 
 
